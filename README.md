@@ -1,1 +1,1 @@
-# space-store
+# Space Store
